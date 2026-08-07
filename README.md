@@ -12,8 +12,11 @@ I am passionate about Backend Development and enjoy building backend solutions u
 💻 Technical Skills:
 
 💻 Programming Languages:☕ Java ,🐍 Python ,⚡ C++
+
 🌐 Web Development:🌐 HTML ,🎨 CSS ,🟨 JavaScript ,🐘 PHP
+
 🗄️ Databases:🐬 MySQL ,🍃 MongoDB
+
 🧠 Core CS Concepts:🧩 OOP ,📊 Data Structures & Algorithms ,🖥️ Operating Systems ,🐧 Linux ,🌐 Computer Networking ,🤖 Machine Learning
 
 
