@@ -50,7 +50,12 @@ I am passionate about **Backend Development** and enjoy building backend solutio
 
 ### 🧠 Core CS Concepts
 
-**OOP** • **Data Structures & Algorithms** • **Operating Systems** • **Linux** • **Computer Networking** • **Machine Learning**
+• **OOP**
+• **Data Structures & Algorithms**
+• **Operating Systems**
+• **Linux**
+• **Computer Networking**
+• **Machine Learning**
 
 ---
 
@@ -58,27 +63,27 @@ I am passionate about **Backend Development** and enjoy building backend solutio
 
 ### 🏢 Enterprise Asset Management
 
-**Operational Efficiency** – Improved processes through centralized asset tracking.
+• **Operational Efficiency** – Improved processes through centralized asset tracking.
 
-**Downtime Reduction** – Minimized failures using predictive maintenance strategies.
+• **Downtime Reduction** – Minimized failures using predictive maintenance strategies.
 
-**Asset Utilization** – Increased performance and usage of critical assets.
+• **Asset Utilization** – Increased performance and usage of critical assets.
 
 ### 🔧 Machine Maintenance and Services
 
-**Prevents Unplanned Downtime** – Schedules maintenance proactively to reduce machine failures.
+• **Prevents Unplanned Downtime** – Schedules maintenance proactively to reduce machine failures.
 
-**Centralizes Service Data** – Maintains all maintenance records for quick access.
+• **Centralizes Service Data** – Maintains all maintenance records for quick access.
 
-**Improves Operational Efficiency** – Automates tracking processes, reducing manual effort and errors.
+• **Improves Operational Efficiency** – Automates tracking processes, reducing manual effort and errors.
 
 ### 🌊 Heavy Metal Pollution Index Estimator
 
-**Python-Based System** – Developed an HMPI Estimator System using Python, Streamlit, Folium, and preprocessed datasets.
+• **Python-Based System** – Developed an HMPI Estimator System using Python, Streamlit, Folium, and preprocessed datasets.
 
-**Real-Time Spatial Insights** – Provides region-wise HMPI visualization.
+• **Real-Time Spatial Insights** – Provides region-wise HMPI visualization.
 
-**Data-Driven Environmental Analysis** – Uses statistical visualization for better understanding of heavy metal pollution.
+• **Data-Driven Environmental Analysis** – Uses statistical visualization for better understanding of heavy metal pollution.
 
 ---
 
@@ -89,32 +94,32 @@ I am passionate about **Backend Development** and enjoy building backend solutio
 **Software Developer Intern | ALM Team**
 **July 2026 – Present**
 
-Contributing to **product development** by building and enhancing software solutions using **Java, Spring Boot, Angular, PostgreSQL, and REST APIs**.
+• Contributing to **product development** by building and enhancing software solutions using **Java, Spring Boot, Angular, PostgreSQL, and REST APIs**.
 
-Gaining hands-on experience in developing **AI-based solutions** and working on enterprise applications within the **ALM (Application Lifecycle Management) team**.
+• Gaining hands-on experience in developing **AI-based solutions** and working on enterprise applications within the **ALM (Application Lifecycle Management) team**.
 
 ### Neosis Technologies LLP
 
 **Software Developer Intern**
 **June 2023 – July 2023**
 
-Collaborated with the team to design and implement **Python-based solutions**.
+• Collaborated with the team to design and implement **Python-based solutions**.
 
-Gained hands-on experience in **backend development**, with particular emphasis on **MySQL database connectivity**.
+• Gained hands-on experience in **backend development**, with particular emphasis on **MySQL database connectivity**.
 
 ---
 
 ## 🏆 Achievements
 
-**9.71 SGPA** in 3rd year of Engineering and overall **CGPA of 9.41** in Engineering.
+• **9.71 SGPA** in 3rd year of Engineering and overall **CGPA of 9.41** in Engineering.
 
-**94.29%** in the final year of Diploma in Computer Engineering.
+• **94.29%** in the final year of Diploma in Computer Engineering.
 
-**Certifications:** NPTEL – Programming in Java | Spoken Tutorial – Linux | Spoken Tutorial – Java
+• **Certifications:** NPTEL – Programming in Java | Spoken Tutorial – Linux | Spoken Tutorial – Java
 
-**Finalist – Internal Round, Smart India Hackathon 2025**
+• **Finalist – Internal Round, Smart India Hackathon 2025**
 
-**HackerRank:** Problem Solving **4★** | Java **2★**
+• **HackerRank:** Problem Solving **4★** | Java **2★**
 
 ---
 
