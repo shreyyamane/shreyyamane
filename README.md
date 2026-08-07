@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**shreyyamane/shreyyamane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻About Me:
 
-Here are some ideas to get you started:
+I am a Final-Year Information Technology student at Pimpri Chinchwad College of Engineering and Research, with a CGPA of 9.41.
+I previously completed my Diploma in Computer Engineering from Pimpri Chinchwad Polytechnic with the score of 94.29%.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am interning at PTC Software, where I am closely involved in product development and gaining hands-on experience in building software solutions and working on Java,Spring boot,Angular,Postgress,REST API,Ai based solutions in ALM team.
+
+I am passionate about Backend Development and enjoy building backend solutions using Python,AI/ML and Java based technologies. I am always eager to learn new technologies and solve real-world problems through software.
+
+💻 Technical Skills:
+
+💻 Programming Languages:☕ Java ,🐍 Python ,⚡ C++
+🌐 Web Development:🌐 HTML ,🎨 CSS ,🟨 JavaScript ,🐘 PHP
+🗄️ Databases:🐬 MySQL ,🍃 MongoDB
+🧠 Core CS Concepts:🧩 OOP ,📊 Data Structures & Algorithms ,🖥️ Operating Systems ,🐧 Linux ,🌐 Computer Networking ,🤖 Machine Learning
+
+
+
+
+
