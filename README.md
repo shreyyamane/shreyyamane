@@ -22,8 +22,12 @@ I am passionate about Backend Development and enjoy building backend solutions u
 🚀 Projects:
 
 🏢Enterprise Asset Managment
+
+
 ● Operational Efficiency – Improved processes through centralized asset tracking
+
 ● Downtime Reduction – Minimized failures using predictive maintenance strategies
+
 ● Asset Utilization - Increased performance and usage of critical assets
 
 
