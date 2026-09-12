@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shreya!
+#  Hii there, I'm Shreya!
 
 ## 👩‍💻 About Me
 
